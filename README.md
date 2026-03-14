@@ -2,6 +2,8 @@
 
 This example shows how to scrape Alibaba product listings in Node.js using the [Alibaba Listings Scraper](https://apify.com/piotrv1001/alibaba-listings-scraper) actor on Apify. Instead of building a scraper from scratch, you call a ready-made actor via the Apify API client — no browser automation or HTML parsing required.
 
+![Alibaba listings scraper results](alibaba_results.png)
+
 ## What this example does
 
 - Calls the Alibaba Listings Scraper actor with a search query and result limit
