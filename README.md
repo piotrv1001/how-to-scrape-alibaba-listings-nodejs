@@ -105,6 +105,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each listin
 ## Related resources
 
 - [How to Scrape Alibaba Product Listings](https://www.falconscrape.com/blog/how-to-scrape-alibaba-product-listings) — in-depth blog post covering Alibaba scraping techniques and use cases
+- [How to Scrape Alibaba Listings with Apify](https://www.youtube.com/watch?v=37hYJY3eLTQ) — video tutorial on scraping Alibaba listings using Apify
 
 ## License
 
